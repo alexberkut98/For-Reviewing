@@ -5,8 +5,8 @@ https://en.wikipedia.org/wiki/Guido_van_Rossum
 This is a module docstring, used to describe the functionality
 of a module and its functions and/or classes.
 """
-EXPECTED_BAKE_TIME = 40
-PREPARATION_TIME = 2
+EXPECTED_BAKE_TIME = 48
+PREPARATION_TIME = 5
 #TODO: define the 'EXPECTED_BAKE_TIME' constant.
 
 
