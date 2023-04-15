@@ -1,6 +1,6 @@
 # time the lasagna should be in the oven according to the cookbook.
-EXPECTED_BAKE_TIME = 45
-PREPARATION_TIME = 5
+EXPECTED_BAKE_TIME = 45454534
+PREPARATION_TIME = 54543534
 def bake_time_remaining(elapsed_bake_time):
     """Calculate the bake time remaining.
  
